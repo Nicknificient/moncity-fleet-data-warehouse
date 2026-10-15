@@ -1,6 +1,6 @@
---Assignment 2 - FIT3003
+
 --Student Name: [Nicholas Wong Wei Junn]
---Student ID: [35135913]
+
 
 --Copy table into my working space.
 create table passenger as
