@@ -38,7 +38,7 @@ Built as part of *FIT3003 Data Warehousing for Business Intelligence* at Monash 
 
 **Suggested reading order:** poster (2 min) → dashboard (3 min) → report (for the detail).
 
-**Live dashboard:** [MonCity Fleet Performance Dashboard](PASTE-YOUR-POWER-BI-LINK-HERE)
+**Live dashboard:** [MonCity Fleet Performance Dashboard](https://app.powerbi.com/groups/me/reports/3ff80521-c2b9-4df3-9bc3-edf1ce6f4651?ctid=ef7a487a-77ca-410a-803d-e426b62a587f&pbi_source=linkShare)
 
 ---
 
@@ -125,8 +125,8 @@ The dashboard answers the investment question across five views: booking demand,
 **Nicholas Wong Wei Junn**
 Monash University Malaysia
 
-- LinkedIn: [your-profile](PASTE-LINK-HERE)
-- Email: your.email@example.com
+- LinkedIn: [Nicholas Wong](https://www.linkedin.com/in/nicholas-wei-junn-wong-ba52b8199/)
+- Email: totowong0810@gmail.com
 
 ---
 
