@@ -1,3 +1,5 @@
+--Analyse and Generate the tables to power our Dashboard
+
 --Booking demand by faculty (bookings_by_faculty.csv)
 select nvl(facultyid,'UNKNOWN') as facultyid, sum(num_booking_records) as total_bookings
 from booking_fact
@@ -73,19 +75,3 @@ where bf.carbodytype = mf.carbodytype
 order by cost_per_booking desc;
 
 
-
-
-
-select count(*) from accident_fact;                 -- expect 993; 994 means stale
-select count(*) from booking;                       -- cleaned count; should be 1 less than moncity.booking
-select count(*) from moncity.booking;
-select sum(num_booking_records) from booking_fact;  -- must equal cleaned booking count
-
-
-
-select sum(maintenancecost) from maintenance;       -- must equal the next line
-select sum(total_maintenance_cost) from maintenance_fact;
-
-
-
-select * from ACCIDENT_WEIGHT_DIM where WEIGHT_FACTOR < 1;
